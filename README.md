@@ -90,12 +90,12 @@
 | Módulo                          | Aulas Assistidas | Total de Aulas | Status         |
 |--------------------------------|------------------|----------------|----------------|
 | Configurações Iniciais         | 9                | 9              | ✅ Concluído     |
-| Inserir Elementos no Word      | 3                | 13             | 🔄 Em Andamento |
-| Formatações no Word            | 0                | 11             | ⏳ Não Iniciado |
-| Modificação, Correção e Edição | 0                | 7              | ⏳ Não Iniciado |
-| Proteção e Integridade         | 0                | 4              | ⏳ Não Iniciado |
-| Digitação e Leitura por Voz    | 0                | 2              | ⏳ Não Iniciado |
-| Formatando conforme ABNT       | 0                | 15             | ⏳ Não Iniciado |
+| Inserir Elementos no Word      | 3                | 13             | 🔄 Concluído |
+| Formatações no Word            | 0                | 11             | ⏳ Concluido |
+| Modificação, Correção e Edição | 0                | 7              | ⏳ Concluído |
+| Proteção e Integridade         | 0                | 4              | ⏳ Concluido |
+| Digitação e Leitura por Voz    | 0                | 2              | ⏳ Concluido |
+| Formatando conforme ABNT       | 0                | 15             | ⏳ Concluido |
 
 ---
 
